@@ -1,0 +1,1 @@
+#the ide file for gameScript

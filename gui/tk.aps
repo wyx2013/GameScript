@@ -1,0 +1,6 @@
+#c
+.main:
+    out a;
+    .rep cs;
+    .qt apk=0xa20;
+    ap apk+cs+"cc/."
