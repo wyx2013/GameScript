@@ -6,8 +6,6 @@ import tkinter,time,os,sys
 import mingw
 from colorama import init,Back,Style
 init(autoreset=True)
-def pr(c:any,*string:str):
-    pass
 def main():
     pass
 if __name__=="__main__":
