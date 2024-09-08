@@ -1,6 +1,6 @@
-# GameScripts ÓïÑÔ
-## Ò»¸öÓÃÓÚ±àÖÆÓÎÏ·µÄÓïÑÔ£¬ÅäÌ×¹Ù·½±à¼­Æ÷£¬¿ÉÓÃ¼ò½àµÄÓïÑÔÖÆ×÷³ö¹¦ÄÜÇ¿´óµÄÓÎÏ·
-###### Çë·ÃÎÊ [¹ÙÍø]() ²é¿´¸ü¶àÏêÏ¸ÐÅÏ¢
+# GameScripts è¯­è¨€
+## ä¸€ä¸ªç”¨äºŽç¼–åˆ¶æ¸¸æˆçš„è¯­è¨€ï¼Œé…å¥—å®˜æ–¹ç¼–è¾‘å™¨ï¼Œå¯ç”¨ç®€æ´çš„è¯­è¨€åˆ¶ä½œå‡ºåŠŸèƒ½å¼ºå¤§çš„æ¸¸æˆ
+###### è¯·è®¿é—® [å®˜ç½‘]() æŸ¥çœ‹æ›´å¤šè¯¦ç»†ä¿¡æ¯
 [github](https://github.com)
 
-password:wyxwyx1122_
+gitee name:wyxwyx1122_
